@@ -14,8 +14,12 @@
           <option name="url" value="git@github.com:brunoassiscarvalho/LivroEmprestator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/brunoassiscarvalho/EmprestaLivro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\BRUNO\Android" />
+    <option name="cloneParentDir" value="E:\BRUNO\Android\RepositorioGit" />
   </component>
 </application>
