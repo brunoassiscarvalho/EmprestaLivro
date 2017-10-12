@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "739637166385",
+    "firebase_url": "https://emprestalivro.firebaseio.com",
+    "project_id": "emprestalivro",
+    "storage_bucket": "emprestalivro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739637166385:android:0e1eca833c210761",
+        "android_client_info": {
+          "package_name": "br.com.m3rcurio.emprestalivro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739637166385-d16vqs9mn1kr3epf35g6snh2h5411enh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.m3rcurio.emprestalivro",
+            "certificate_hash": "352c9cd79e5ea4910d4dedbbda8fd52c7401503a"
+          }
+        },
+        {
+          "client_id": "739637166385-ltnl6ds3ekt6jh685aivomhkgo7hacqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9IKVJwddmM1sJDZpgLJt2E5EaoSU6S78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739637166385-ltnl6ds3ekt6jh685aivomhkgo7hacqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
